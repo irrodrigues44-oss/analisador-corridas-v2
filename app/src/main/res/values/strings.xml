@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Analisador de Corridas</string>
+    <string name="notification_channel_name">Captura de Ofertas</string>
+    <string name="notification_channel_description">Analisa ofertas exibidas na Uber e na 99 em tempo real, sem salvar imagens.</string>
+    <string name="notification_title">Analisador de Corridas ativo</string>
+    <string name="notification_text">Aguardando novas ofertas da Uber ou 99 na tela.</string>
+    <string name="action_stop_analysis">Parar análise</string>
+</resources>
